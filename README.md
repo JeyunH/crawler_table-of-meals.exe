@@ -6,7 +6,9 @@
 
 <br>
 <div align="center">
+    
 ![프로그램 스크린샷](./etc/.gif)
+    
 </div>
 <br>
 

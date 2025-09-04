@@ -1,13 +1,12 @@
 # 한국폴리텍대학 성남캠퍼스 식단표 뷰어
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
 
 매번 웹사이트에 접속할 필요 없이, 데스크톱에서 간편하게 한국폴리텍대학 성남캠퍼스 학생식당의 주간 식단을 확인하는 프로그램입니다.
 
 <br>
 
-![프로그램 스크린샷](./screenshot.png)
-> **Note:** 위 이미지는 예시입니다. 실제 프로그램 실행 화면을 캡처하여 `screenshot.png` 파일로 프로젝트 폴더에 저장해주세요.
+![프로그램 스크린샷](./etc/.gif)
 
 <br>
 

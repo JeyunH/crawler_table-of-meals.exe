@@ -1,0 +1,19 @@
+# etc
+class test01.py
+Meal.ipynb
+Meals.py
+Meals.spec
+Meals2.py
+Meals3.py
+Meals4.py
+Meals4.spec
+Meals5.spec
+test01.py
+Today_meals.py
+table_of_meals.spec
+
+# IDE
+.ipynb_checkpoints/
+
+# builder file
+build/

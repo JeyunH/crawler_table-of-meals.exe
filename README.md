@@ -7,7 +7,7 @@
 ![Packaging](https://img.shields.io/badge/Packaging-PyInstaller-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-매번 웹사이트에 접속할 필요 없이, 실행프로그램으로 간편하게 학생식당의 주간 식단을 확인하는 프로그램입니다.
+매번 웹사이트에 접속할 필요 없이, Windows 실행프로그램으로 간편하게 학생식당의 주간 식단을 확인하는 GUI 프로그램입니다.
 
 <br>
 <div align="center">
